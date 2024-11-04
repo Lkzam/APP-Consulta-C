@@ -1,3 +1,2 @@
-Esse codigo é feito por Luca Mazieiro Ribeiro - Lkzam.
-Disponivel para dowload com o intuido de auxiliar no estudo de terceiros, todos os codigos aqui estão com os direitos abertos PORÉM não poderão ser comercializados ou copiados para fins academicos.
-Preso sempre a individualidade de projeto, pegue o meu codigo e use de pase para seus projetos :D
+Este código foi desenvolvido por Luca Mazieiro Ribeiro (Lkzam) e está disponível para download com o objetivo de auxiliar no estudo de terceiros. Todos os códigos aqui estão sob uma licença de uso aberto, mas não podem ser comercializados ou copiados para fins acadêmicos. Valorizo a originalidade de cada projeto, por isso, sinta-se à vontade para utilizar meu código como base para os seus próprios projetos. :)
+
